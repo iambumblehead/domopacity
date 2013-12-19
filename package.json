@@ -1,0 +1,16 @@
+{
+  "name": "domopacity",
+  "version": "0.0.1",
+  "readmeFilename": "README.md",
+  "license" : "MIT",
+  "description": "modify the opacity of an element",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iambumblehead/domopacity.git"
+  },
+  "keywords": [
+    "opacity",
+    "ie",
+    "filter",
+  ]
+}
