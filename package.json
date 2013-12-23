@@ -1,6 +1,6 @@
 {
   "name": "domopacity",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "readmeFilename": "README.md",
   "license" : "MIT",
   "description": "modify the opacity of an element",

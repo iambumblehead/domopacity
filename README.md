@@ -8,6 +8,7 @@ Wrapper for modifying the opacity of an object.
 
  - domopacity.stopDefaultAt( _elem_, .50 ); **define 50% opacity**
  - domopactiy.rm( _elem_ ); **remove opacity**
+ - domopactiy.is( _elem_ ); **return opacity**
  
 
 [0]: http://www.bumblehead.com                            "bumblehead"
